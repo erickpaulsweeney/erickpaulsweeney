@@ -67,6 +67,6 @@ This is a front-end apploication with customized backend written using NodeJS an
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickpaulsweeney&layout=compact&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=erickpaulsweeney&show_icons=true&theme=dark"/>
