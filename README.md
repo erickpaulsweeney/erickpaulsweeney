@@ -10,10 +10,10 @@ I am  a MERN stack developer looking forward to the knowledge and opportunities 
 Contact Me: 
 
 <a href="https://www.linkedin.com/in/erick-paul-sweeney/">
-    <img alt="Erick's LinkedIn Profile" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" >
+    <img alt="Erick's LinkedIn Profile" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="100px" >
 </a>
 <a href="mailto:erickpaulsweeney@gmail.com">
-    <img alt="Erick's Gmail" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" >
+    <img alt="Erick's Gmail" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="100px" >
 </a>
 
 ## Personal Projects
@@ -27,22 +27,22 @@ This is a front-end apploication with customized backend written using NodeJS an
 #### Doctor's screenshots
 
 <div style="display: flex, justify-content: center">
-    ![Doctor's Homepage](./images/Doctor%20Homepage.png)
-    ![Doctor's Profile](./images/Doctor%20Profile.png)
-    ![Doctor's Profile Edit](./images/Doctor%20Profile%20Edit.png)
-    ![Doctor's Consultations](./images/Doctor%20Consultations%201.png)
-    ![Doctor's Consultations](./images/Doctor%20Consultations%202.png)
-    ![Doctor's Consultations](./images/Doctor%20Consultations%203.png)
+![Doctor's Homepage](./images/Doctor%20Homepage.png)
+![Doctor's Profile](./images/Doctor%20Profile.png)
+![Doctor's Profile Edit](./images/Doctor%20Profile%20Edit.png)
+![Doctor's Consultations](./images/Doctor%20Consultations%201.png)
+![Doctor's Consultations](./images/Doctor%20Consultations%202.png)
+![Doctor's Consultations](./images/Doctor%20Consultations%203.png)
 </div>
 
 #### Patient's screenshots
 
 <div style="display: flex, justify-content: center">
-    ![Patient's Homepage](./images/Patient%20Homepage.png)
-    ![Patient's Search](./images/Patient%20Search%201.png)
-    ![Patient's Search](./images/Patient%20Search%202.png)
-    ![Patient's Booking](./images/Patient%20Booking%201.png)
-    ![Patient's Booking](./images/Patient%20Booking%202.png)
+![Patient's Homepage](./images/Patient%20Homepage.png)
+![Patient's Search](./images/Patient%20Search%201.png)
+![Patient's Search](./images/Patient%20Search%202.png)
+![Patient's Booking](./images/Patient%20Booking%201.png)
+![Patient's Booking](./images/Patient%20Booking%202.png)
 </div>
 
 ### <a href="https://multiplayer-tic-tac-toe-mern.netlify.app/">Multiplayer Tic-Tac-Toe</a>
@@ -54,9 +54,9 @@ This is a front-end apploication with customized backend written using NodeJS an
 #### Screenshots
 
 <div style="display: flex, justify-content: center">
-    ![Tic Tac Toe](./images/TicTacToe%201.png)
-    ![Tic Tac Toe](./images/TicTacToe%202.png)
-    ![Tic Tac Toe](./images/TicTacToe%203.png)
+![Tic Tac Toe](./images/TicTacToe%201.png)
+![Tic Tac Toe](./images/TicTacToe%202.png)
+![Tic Tac Toe](./images/TicTacToe%203.png)
 </div>
 
 ### <a href="https://spotify-profile-mern.netlify.app/">Spotify Profile</a>
@@ -64,13 +64,16 @@ This is a front-end apploication with customized backend written using NodeJS an
 **Tech Used:** ReactJS, Spotify API, Styled Components
 
 <div style="display: flex, justify-content: center">
-    ![Spotify Profile](./images/Spotify%20Profile%201.png)
-    ![Spotify Profile](./images/Spotify%20Profile%202.png)
-    ![Spotify Profile](./images/Spotify%20Profile%203.png)
-    ![Spotify Profile](./images/Spotify%20Profile%204.png)
-    ![Spotify Profile](./images/Spotify%20Profile%205.png)
-    ![Spotify Profile](./images/Spotify%20Profile%206.png)
+![Spotify Profile](./images/Spotify%20Profile%201.png)
+![Spotify Profile](./images/Spotify%20Profile%202.png)
+![Spotify Profile](./images/Spotify%20Profile%203.png)
+![Spotify Profile](./images/Spotify%20Profile%204.png)
+![Spotify Profile](./images/Spotify%20Profile%205.png)
+![Spotify Profile](./images/Spotify%20Profile%206.png)
 </div>
+
+
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=dark"/>
 
