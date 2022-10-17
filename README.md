@@ -79,7 +79,7 @@ This is front-end application made with Spotify API. It allows users to browse t
 
 **Tech Used:** EJS, Node.js, ExpressJS, Socket.io, PeerJS
 
-StreamHub is front-end application with customized backend written using Node.js and Express framework. StreamHub allows users to create rooms for peer-to-peer calls. Once other users accesses StreamHub with the room link, they can automatically connect with video and audio. 
+StreamHub is a front-end application with a customized backend written using Node.js and Express framework. StreamHub allows users to create rooms for peer-to-peer calls. Once other users can access StreamHub with the room link, they can automatically connect with video and audio.
 
 <div style="dispaly: flex: justify-content: center">
     <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/StreamHub%201.png" alt = "StreamHub" width="48%" /> 
