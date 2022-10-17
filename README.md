@@ -75,16 +75,27 @@ This is front-end application made with Spotify API. It allows users to browse t
     <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Spotify%20Profile%206.png" alt = "Spotify Profile" width="48%" /> 
 </div>
 
-### <a href="https://spotify-profile-mern.netlify.app/">Pexels Gallery</a>
+### <a href="https://p2p-video-call-mern.herokuapp.com/">StreamHub</a>
+
+**Tech Used:** EJS, Node.js, ExpressJS, Socket.io, PeerJS
+
+StreamHub is front-end application with customized backend written using Node.js and Express framework. StreamHub allows users to create rooms for peer-to-peer calls. Once other users accesses StreamHub with the room link, they can automatically connect with video and audio. 
+
+<div style="dispaly: flex: justify-content: center">
+    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/StreamHub%201.png" alt = "StreamHub" width="48%" /> 
+    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/StreamHub%202.png" alt = "StreamHub" width="48%" /> 
+</div>
+
+### <a href="https://pexels-gallery-mern.netlify.app/">Pexels Gallery</a>
 
 **Tech Used:** ReactJS, Pexels API
 
 Pexels Gallery is a front-end application that features API calls from Pexels API to display curated images and pictures related to specific prompts.
 
 <div style="dispaly: flex: justify-content: center">
-    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Pexels%201.png" alt = "Spotify Profile" width="48%" /> 
-    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Pexels%202.png" alt = "Spotify Profile" width="48%" /> 
-    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Pexels%203.png" alt = "Spotify Profile" width="48%" /> 
+    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Pexels%201.png" alt = "Pexels Gallery" width="48%" /> 
+    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Pexels%202.png" alt = "Pexels Gallery" width="48%" /> 
+    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Pexels%203.png" alt = "Pexels Gallery" width="48%" /> 
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickpaulsweeney&layout=compact&theme=dark"/>
