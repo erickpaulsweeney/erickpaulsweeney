@@ -75,6 +75,18 @@ This is front-end application made with Spotify API. It allows users to browse t
     <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Spotify%20Profile%206.png" alt = "Spotify Profile" width="48%" /> 
 </div>
 
+### <a href="https://spotify-profile-mern.netlify.app/">Pexels Gallery</a>
+
+**Tech Used:** ReactJS, Pexels API
+
+Pexels Gallery is a front-end application that features API calls from Pexels API to display curated images and pictures related to specific prompts.
+
+<div style="dispaly: flex: justify-content: center">
+    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Pexels%201.png" alt = "Spotify Profile" width="48%" /> 
+    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Pexels%202.png" alt = "Spotify Profile" width="48%" /> 
+    <img src = "https://github.com/erickpaulsweeney/erickpaulsweeney/blob/master/images/Pexels%203.png" alt = "Spotify Profile" width="48%" /> 
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickpaulsweeney&layout=compact&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=erickpaulsweeney&show_icons=true&theme=dark"/>
